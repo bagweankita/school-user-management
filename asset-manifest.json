@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/school-user-management/static/css/main.5ab4884a.css",
+    "main.js": "/school-user-management/static/js/main.becc9fa6.js",
+    "static/js/453.bd18574c.chunk.js": "/school-user-management/static/js/453.bd18574c.chunk.js",
+    "static/media/InterVariable-Italic.woff2": "/school-user-management/static/media/InterVariable-Italic.e295f70fe3e2df296c7b.woff2",
+    "static/media/InterVariable.woff2": "/school-user-management/static/media/InterVariable.a0e477f2f1f9d2376fde.woff2",
+    "static/media/primeicons.svg": "/school-user-management/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/school-user-management/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/school-user-management/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/school-user-management/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/School_logo_img.png": "/school-user-management/static/media/School_logo_img.d2182f6ab92e0b250b93.png",
+    "static/media/school_background_img.png": "/school-user-management/static/media/school_background_img.c5d304f4709a4a66d403.png",
+    "static/media/primeicons.woff2": "/school-user-management/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "index.html": "/school-user-management/index.html",
+    "main.5ab4884a.css.map": "/school-user-management/static/css/main.5ab4884a.css.map",
+    "main.becc9fa6.js.map": "/school-user-management/static/js/main.becc9fa6.js.map",
+    "453.bd18574c.chunk.js.map": "/school-user-management/static/js/453.bd18574c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab4884a.css",
+    "static/js/main.becc9fa6.js"
+  ]
+}
