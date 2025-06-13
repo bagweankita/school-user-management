@@ -1,0 +1,132 @@
+[
+  {
+    "username": "Ankita",
+    "userType": "admin",
+    "password": "$2b$10$Iy5E.HIiQJaEXoMdKuWTE.xOIOUgGJPcVMFO9maES23mvpKG05pHC",
+    "email": "admin@school.com",
+    "language": "English",
+    "address": "123 Main Boriwali",
+    "standard": "10th",
+    "subjects": [
+      "Maths",
+      "Science"
+    ]
+  },
+  {
+    "username": "Vikram",
+    "userType": "admin",
+    "password": "$2b$10$Iy5E.HIiQJaEXoMdKuWTE.xOIOUgGJPcVMFO9maES23mvpKG05pHC",
+    "email": "vikram@school.com",
+    "language": "Hindi",
+    "address": "88 Cross Road, Pune",
+    "standard": "11th",
+    "subjects": [
+      "Physics",
+      "Chemistry"
+    ]
+  },
+  {
+    "username": "Priya",
+    "userType": "admin",
+    "password": "$2b$10$Iy5E.HIiQJaEXoMdKuWTE.xOIOUgGJPcVMFO9maES23mvpKG05pHC",
+    "email": "priya@school.com",
+    "language": "English",
+    "address": "7 MG Road, Thane",
+    "standard": "12th",
+    "subjects": [
+      "Biology",
+      "English"
+    ]
+  },
+  {
+    "username": "Amit",
+    "userType": "admin",
+    "password": "$2b$10$Iy5E.HIiQJaEXoMdKuWTE.xOIOUgGJPcVMFO9maES23mvpKG05pHC",
+    "email": "amit@school.com",
+    "language": "Marathi",
+    "address": "201 Sector 4, Navi Mumbai",
+    "standard": "9th",
+    "subjects": [
+      "Maths",
+      "Geography"
+    ]
+  },
+  {
+    "username": "Sneha",
+    "userType": "admin",
+    "password": "$2b$10$Iy5E.HIiQJaEXoMdKuWTE.xOIOUgGJPcVMFO9maES23mvpKG05pHC",
+    "email": "sneha@school.com",
+    "language": "Sanskrit",
+    "address": "105 Green Lane, Dadar",
+    "standard": "10th",
+    "subjects": [
+      "Civics",
+      "Economics"
+    ]
+  },
+  {
+    "username": "Raj",
+    "userType": "student",
+    "password": "$2b$10$H1GVlSMsTlvHXvMo35448uSH.l.qbO1.kB.YJKTSVmCux1TDwHf0W",
+    "email": "raj@school.com",
+    "language": "German",
+    "address": "456 Park Andheri",
+    "standard": "8th",
+    "subjects": [
+      "History",
+      "Science"
+    ]
+  },
+  {
+    "username": "Neha",
+    "userType": "student",
+    "password": "$2b$10$H1GVlSMsTlvHXvMo35448uSH.l.qbO1.kB.YJKTSVmCux1TDwHf0W",
+    "email": "neha@school.com",
+    "language": "French",
+    "address": "34 Maple Street, Bandra",
+    "standard": "9th",
+    "subjects": [
+      "Maths",
+      "English"
+    ]
+  },
+  {
+    "username": "Arjun",
+    "userType": "student",
+    "password": "$2b$10$H1GVlSMsTlvHXvMo35448uSH.l.qbO1.kB.YJKTSVmCux1TDwHf0W",
+    "email": "arjun@school.com",
+    "language": "Spanish",
+    "address": "11 Sunrise Apt, Kandivali",
+    "standard": "10th",
+    "subjects": [
+      "Science",
+      "Geography"
+    ]
+  },
+  {
+    "username": "Pooja",
+    "userType": "student",
+    "password": "$2b$10$H1GVlSMsTlvHXvMo35448uSH.l.qbO1.kB.YJKTSVmCux1TDwHf0W",
+    "email": "pooja@school.com",
+    "language": "Hindi",
+    "address": "19 Beach View, Juhu",
+    "standard": "11th",
+    "subjects": [
+      "Physics",
+      "Maths"
+    ]
+  },
+  {
+    "username": "Karan",
+    "userType": "student",
+    "password": "$2b$10$H1GVlSMsTlvHXvMo35448uSH.l.qbO1.kB.YJKTSVmCux1TDwHf0W",
+    "email": "karan@school.com",
+    "language": "English",
+    "address": "63 Metro Plaza, Borivali",
+    "standard": "12th",
+    "subjects": [
+      "Biology",
+      "Chemistry"
+    ]
+  }
+]
